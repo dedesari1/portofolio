@@ -973,6 +973,14 @@ input, textarea{
 }
 
 
+.flex-button{
+  display: grid;
+}
+
+.btn1, .btn2{
+  width: 100%;
+}
+
 
 .dark ul li a{
 color: white;
