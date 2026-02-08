@@ -348,6 +348,7 @@ img{
   background-color: white;
   padding-top: 3rem;
   padding-bottom: 3rem;
+  transition: 0.3s;
 }
 
 .title-about{
