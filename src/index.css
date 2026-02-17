@@ -367,8 +367,8 @@ img{
 }
 
 .dark .text-about{
-      --tw-text-opacity: 1;
-    color: rgb(203 213 225 / var(--tw-text-opacity, 1));
+  --tw-text-opacity: 1;
+  color: rgb(203 213 225 / var(--tw-text-opacity, 1));
 }
 
 .card-bg{
@@ -395,29 +395,29 @@ img{
 
 .dark .card{
   --tw-bg-opacity: 1;
-    background-color: rgb(30 41 59 / var(--tw-bg-opacity, 1));
-    border: 1px solid #334155;
+  background-color: rgb(30 41 59 / var(--tw-bg-opacity, 1));
+  border: 1px solid #334155;
 }
 
 .t1{
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-    color: #ae794d;
-    font-weight: 700;
-    text-align: center;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  color: #ae794d;
+  font-weight: 700;
+  text-align: center;
 }
 
 .dark .skil-pil{
-      background-color: #1e293b;
-    border: 1px solid #334155;
-    color: #cbd5e1;
+  background-color: #1e293b;
+  border: 1px solid #334155;
+  color: #cbd5e1;
 }
 
 .t2{
-      --tw-text-opacity: 1;
-    color: rgb(100 116 139 / var(--tw-text-opacity, 1));
-    font-size: 0.75rem;
-    line-height: 1rem;
+  --tw-text-opacity: 1;
+  color: rgb(100 116 139 / var(--tw-text-opacity, 1));
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 
 .teknis{
@@ -425,15 +425,15 @@ img{
 }
 
 .kt1{
-    text-transform: uppercase;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    --tw-text-opacity: 1;
-    color: rgb(148 163 184 / var(--tw-text-opacity, 1));
-    font-weight: 700;
-    font-size: 0.875rem;
-    line-height: 1.25rem;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  --tw-text-opacity: 1;
+  color: rgb(148 163 184 / var(--tw-text-opacity, 1));
+  font-weight: 700;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
 }
 
 .skils{
@@ -445,31 +445,31 @@ img{
 }
 
 .skil-pil img{
-    width: 1.25rem;
-    height: 1.25rem;
+  width: 1.25rem;
+  height: 1.25rem;
 }
 
 .skil-pil{
-      display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.5rem 1rem;
-    background-color: white;
-    border: 1px solid #e2e8f0;
-    border-radius: 9999px;
-    font-size: 0.875rem;
-    font-weight: 500;
-    color: #475569;
-    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-    transition: all 0.2s;
-    cursor: default;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #475569;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  transition: all 0.2s;
+  cursor: default;
 }
 
 
 .dark .about{
   transition: 0.8s;
   --tw-bg-opacity: 1;
-    background-color: rgb(15 23 42 / var(--tw-bg-opacity, 1));
+  background-color: rgb(15 23 42 / var(--tw-bg-opacity, 1));
 }
 
 .projects{
@@ -492,7 +492,7 @@ img{
 
 .dark .subtitle-project{
   --tw-text-opacity: 1;
-    color: rgb(148 163 184 / var(--tw-text-opacity, 1))
+  color: rgb(148 163 184 / var(--tw-text-opacity, 1))
 }
 
 .project-grid{
@@ -506,7 +506,7 @@ img{
   border-radius: 30px;
   overflow: hidden;
   --tw-bg-opacity: 1;
-    background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
   border: 1px solid #e2e8f0;
 }
 
@@ -552,7 +552,7 @@ img{
 
 .dark .tools-txt{
   --tw-bg-opacity: 1;
-    background-color: rgb(30 41 59 / var(--tw-bg-opacity, 1));
+  background-color: rgb(30 41 59 / var(--tw-bg-opacity, 1));
 }
 
 .project-card img{
@@ -779,8 +779,8 @@ input, textarea{
 
 .dark .project-card{
   transition: 0.8s;
-     --tw-bg-opacity: 1;
-    background-color: rgb(15 23 42 / var(--tw-bg-opacity, 1));
+  --tw-bg-opacity: 1;
+  background-color: rgb(15 23 42 / var(--tw-bg-opacity, 1));
   border: 1px solid #1f2937;
 }
 
@@ -799,19 +799,19 @@ input, textarea{
 .dark .contact-card{
   transition: 0.3s;
   --tw-bg-opacity: 1;
-    background-color: #0f0f0f;
-    border: 1px solid #1f2937;
+  background-color: #0f0f0f;
+  border: 1px solid #1f2937;
 }
 
 
 .dark .round {
   --tw-bg-opacity: 1;
-    background-color: rgb(30 41 59 / var(--tw-bg-opacity, 1));
+  background-color: rgb(30 41 59 / var(--tw-bg-opacity, 1));
 }
 
 .dark .round svg{
   --tw-text-opacity: 1;
-    color: rgb(148 163 184 / var(--tw-text-opacity, 1));
+  color: rgb(148 163 184 / var(--tw-text-opacity, 1));
 }
 
 
@@ -827,16 +827,15 @@ input, textarea{
 
   .hamburger{
     display: block;
-            border: none;
-        background: none;
-        font-size: 30px;
+    border: none;
+    background: none;
+    font-size: 30px;
   }
 
   /* FULLSCREEN MOBILE MENU */
 .mobile-menu {
   position: fixed;
   inset: 0;
-  /* background: rgba(15, 15, 15, 0.95); */
   background-color: rgb(255 255 255 / 0.95);
   z-index: 999;
   display: flex;
@@ -984,7 +983,12 @@ input, textarea{
 
 
 .dark ul li a{
-color: white;
+  color: white;
+}
+
+.card{
+  width: 100%;
+  justify-content: center;
 }
 
 }
