@@ -322,7 +322,7 @@ const [visibleCount, setVisibleCount] = useState(INITIAL_COUNT);
 
 
 
-<section className="contact" id="contact">
+<section id="contact" className="contact">
     <div className="container">
     <div className="title-contact">
   {lang === "ID" ? (
@@ -358,8 +358,7 @@ const [visibleCount, setVisibleCount] = useState(INITIAL_COUNT);
 
 </section>
 
-<section className="copyright">
-  <div className="container">
+  <div className="container copyright">
   <span className="txt-copyright">
     © 2025 Dede Sari. Made with
      <svg
@@ -381,7 +380,6 @@ const [visibleCount, setVisibleCount] = useState(INITIAL_COUNT);
     in Jakarta.
     </span>
   </div>
-</section>
 
 </div>
 
